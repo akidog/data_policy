@@ -1,4 +1,4 @@
-# Policy
+# DataPolicy
 
 TODO: Write a gem description
 
